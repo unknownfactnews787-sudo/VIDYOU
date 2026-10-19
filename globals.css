@@ -1,0 +1,10 @@
+body{margin:0;font-family:system-ui,"Noto Sans Bengali",sans-serif;background:#f6f7fb;color:#1b1d27}
+.w{max-width:960px;margin:0 auto;padding:16px}
+.tabs button,.go{border:1px solid #ddd;background:#fff;padding:8px 14px;border-radius:20px;margin:0 6px 6px 0;cursor:pointer}
+.tabs .on,.go{background:#e5342b;color:#fff;border-color:#e5342b}
+input{padding:10px;border:1px solid #ddd;border-radius:10px;width:min(420px,100%);margin:0 8px 8px 0}
+.card{background:#fff;border:1px solid #e3e5ee;border-radius:12px;padding:14px;margin-top:12px}
+.v{display:flex;gap:10px;padding:8px 0;border-bottom:1px solid #eee}
+.v img{width:120px;height:68px;object-fit:cover;border-radius:6px}
+.chip{display:inline-block;background:#eef0f7;border-radius:12px;padding:2px 10px;margin:3px;font-size:.85rem}
+.err{color:#c00}.up{color:#1a9d55;font-weight:700}
